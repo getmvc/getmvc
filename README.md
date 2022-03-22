@@ -1,2 +1,2 @@
 # getmvc
-GetMVC framework project
+GetMVC lightweight PHP framework project
